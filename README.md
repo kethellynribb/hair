@@ -1,3 +1,3 @@
 # receitas
 
-https://kethellynribb.github.io/receitas/
+https://kethellynribb.github.io/hair/
