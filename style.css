@@ -1,6 +1,6 @@
 body{
     font-family: "Oswald", sans-serif;
-    background: rgb(158, 5, 5);
+    background: rgb(138, 125, 125);
     color: black;
     margin: 0px;
     margin-bottom: 100px;
@@ -15,7 +15,7 @@ h1{
     font-size: 35px;
 }
 .chamada{
-    background: rgb(207, 9, 9);
+    background: rgb(196, 188, 188);
     margin-top: 80px;
     margin-bottom: 80px;
     display: flex;
